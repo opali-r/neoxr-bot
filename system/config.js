@@ -1,7 +1,7 @@
 // Owner number
-global.owner = '6285887776722'
+global.owner = '642737254448'
 // Owner name
-global.owner_name = 'Wildan Izzudin'
+global.owner_name = 'ɳoɓꀤʈɑ 👑🖤🎧'
 // Database name (Default: database)
 global.database = 'database'
 // Maximum upload file size limit (Default : 100 MB)
@@ -23,14 +23,14 @@ global.Api = new (require('./neoxrApi'))(process.env.API_KEY)
 // Get bid and key configuration for autoreply chat ai feature by registering at https://brainshop.ai
 global.chatai_bid = '164728'
 global.chatai_key = 'MKPsfkgXLZPGrWoH'
-// Timezone (Default : Asia/Jakarta)
-global.timezone = 'Asia/Jakarta'
+// Timezone (Default : Asia/Karachi)
+global.timezone = 'Asia/Karachi'
 // Bot version
 global.version = '2.2.2',
 // Bot name
-global.botname = `© neoxr-bot v${global.version} (Public Bot)`
+global.botname = `© nobita-bot v${global.version} (Public Bot)`
 // Footer text
-global.footer = 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ɴᴇᴏxʀ ッ'
+global.footer = 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ Nobita ッ'
 // Global status
 global.status = Object.freeze({
    wait: Func.texted('bold', 'Processed . . .'),
