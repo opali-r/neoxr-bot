@@ -1,7 +1,7 @@
 // Owner number
 global.owner = '642737254448'
 // Owner name
-global.owner_name = 'ɳoɓꀤʈɑ 👑🖤🎧'
+global.owner_name = '⏤͟͞ 𝐍𝐎𝐁𝐈𝐓𝐀 𓆩𓊈🇵🇰𓊉𓆪'
 // Database name (Default: database)
 global.database = 'database'
 // Maximum upload file size limit (Default : 100 MB)
